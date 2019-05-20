@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Colorcomp  renders Color 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "blue",
+      "height": "100px",
+      "width": "100px",
+    }
+  }
+/>
+`;
